@@ -1,0 +1,19 @@
+main
+{
+    display: flex;
+    height: calc(100vh - 37px);
+    flex-direction: row;
+}
+
+#sectionA
+{
+    background-color: aqua;
+    flex: 8;
+
+}
+#sectionB
+{
+    background-color: rgb(212, 147, 224);
+    flex:6;
+}
+
